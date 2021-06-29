@@ -130,3 +130,8 @@ button {
        padding-left: 20px;
     }
   }
+  @media screen and (min-width: 1024px) {
+   .container {
+       max-width: 1024px;
+   }
+  }
